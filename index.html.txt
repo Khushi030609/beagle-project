@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Beagle Dog</title>
+	<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/616/616408.png">
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+	<!-- Top Section -->
+	<section class="top-section">
+		<h1>Beagle</h1>
+		<p>
+			The Beagle is a small hound known for its excellent sense of smell and friendly nature.
+		</p>
+		<a href="https://en.wikipedia.org/wiki/Beagle" target="_blank">Read More</a>
+	</section>
+
+	<!-- Image Section -->
+	<section class="image-section">
+		<h2>Beagle Image</h2>
+		<img 
+			src="https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg" 
+			alt="Beagle Dog" 
+			width="300"
+		>
+		<br>
+		<a href="https://www.google.com/search?tbm=isch&q=beagle+dog" target="_blank">
+			More Images
+		</a>
+	</section>
+
+	<!-- Trivia Section -->
+	<section class="trivia-section">
+		<h2>Beagle Trivia</h2>
+		<ol>
+			<li><strong>Origin:</strong> England</li>
+			<li><em>Known for:</em> Strong sense of smell</li>
+			<li><strong>Temperament:</strong> Friendly and curious</li>
+			<li><em>Life span:</em> 12–15 years</li>
+			<li><strong>Usage:</strong> Hunting and companionship</li>
+		</ol>
+	</section>
+
+</body>
+
+</html>
